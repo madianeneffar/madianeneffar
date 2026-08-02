@@ -1,4 +1,4 @@
-# Hi 👋, I'm Madiane Zaid Elyakine Neffar
+# Madiane Zaid Elyakine Neffar
 
 ## 💻 Computer Science & Artificial Intelligence Student
 
