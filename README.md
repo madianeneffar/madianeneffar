@@ -1,28 +1,24 @@
-<h1 align="center">Hi 👋, I'm Madiane Zaid Elyakine Neffar</h1>
+# Hi 👋, I'm Madiane Zaid Elyakine Neffar
 
-<h3 align="center">
-Computer Science & Artificial Intelligence Student at Vistula University
-</h3>
+## 💻 Computer Science & Artificial Intelligence Student
 
-<p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Software Engineering, and solving real-world problems through technology.
-</p>
+Passionate about Artificial Intelligence, Machine Learning, Software Engineering, and building real-world AI solutions.
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Computer Science & AI Student at Vistula University
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 Currently learning Python, C++, Data Structures & Algorithms
+- 🐍 Currently learning Python, C++, Data Structures & Algorithms
 - 🚀 Building projects to improve my software engineering skills
-- 🌍 Interested in AI Research, Computer Vision, NLP, and Robotics
+- 🧠 Interested in AI Research, Computer Vision, NLP & Robotics
 - 📚 Always learning new technologies
-- 🎯 Goal: Become an AI Engineer and contribute to impactful AI solutions
+- 🎯 Goal: Become an AI Engineer and build impactful AI solutions
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="left">
 
@@ -42,7 +38,7 @@ Passionate about Artificial Intelligence, Machine Learning, Software Engineering
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - Artificial Intelligence
 - Machine Learning
@@ -53,32 +49,36 @@ Passionate about Artificial Intelligence, Machine Learning, Software Engineering
 
 ---
 
-## 🎯 2026 Goals
+# 🚀 Featured Projects
 
-- ✅ Master Python
-- ✅ Master C++
-- ✅ Learn Machine Learning
-- ✅ Learn Deep Learning
-- ✅ Build 20+ Professional Projects
-- ✅ Contribute to Open Source
-- ✅ Get an AI Internship
-- ✅ Become an AI Engineer
+### 🤖 AI Chatbot
+Coming Soon...
+
+### 🧠 Image Classification
+Coming Soon...
+
+### 👁 Computer Vision with OpenCV
+Coming Soon...
+
+### 📊 Machine Learning Projects
+Coming Soon...
+
+### 🌐 Personal Portfolio Website
+Coming Soon...
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=madianeneffar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madianeneffar&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=madianeneffar&show_icons=true&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -88,28 +88,37 @@ Passionate about Artificial Intelligence, Machine Learning, Software Engineering
 
 ---
 
-## 🏆 GitHub Trophies
+# 💻 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=madianeneffar&theme=tokyonight&margin-w=15"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madianeneffar&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🎯 2026 Goals
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/madiane-zaid-elyakine-neffar">
-LinkedIn
-</a>
-
-</p>
+- ✅ Master Python
+- ✅ Master C++
+- ✅ Learn Machine Learning
+- ✅ Learn Deep Learning
+- ✅ Build 30+ Projects
+- ✅ Contribute to Open Source
+- ✅ Get an AI Internship
+- ✅ Become an AI Engineer
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+# 🌐 Connect with Me
+
+LinkedIn:
+https://www.linkedin.com/in/madiane-zaid-elyakine-neffar-649966426/
+
+Email:
+madianeneffar@gmail.com
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
